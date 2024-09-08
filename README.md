@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 문제해결에 관심이 많은 개발자 "박진성"입니다
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=likemath1997)](https://solved.ac/likemath1997)
